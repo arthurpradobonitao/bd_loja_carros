@@ -1,5 +1,4 @@
--- [nota pessoal] Projeto Loja de Carros - Versão adaptada por Luiz
--- [nota pessoal] 01_schema.sql — DDL
+
 DROP DATABASE IF EXISTS loja_carros;
 CREATE DATABASE loja_carros
   DEFAULT CHARACTER SET utf8mb4
