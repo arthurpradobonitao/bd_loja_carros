@@ -1,5 +1,4 @@
--- [nota pessoal] Projeto Loja de Carros - Versão adaptada por Luiz
--- [nota pessoal] 03_queries.sql — Consultas úteis
+
 USE loja_carros;
 
 -- [nota pessoal] 1) Inventário disponível (com marca e modelo)
