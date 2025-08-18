@@ -14,19 +14,6 @@ Registro de parcelas e formas de pagamento.
 Relatórios sobre vendas e desempenho da loja.
 Com ele, é possível saber exatamente quais veículos estão disponíveis, quais já foram vendidos, e manter o histórico de cada cliente e compra.
 
-Arquivos Entregues
-
-DER (DBML) em dbdiagram/loja_carros.dbml (também exportado como imagem/PDF pelo site dbdiagram.io).
-
-Scripts SQL na pasta db/:
-
-01_schema.sql → Criação do banco e das tabelas.
-02_seed.sql → Inserção de dados de exemplo.
-03_queries.sql → Consultas (mínimo de 6 diferentes).
-00_full_install.sql → Script completo (criação + inserção + consultas).
-
-README.md → Este arquivo com a explicação do projeto.
-
 Entidades e Relacionamentos
 
 O banco de dados foi feito para evitar informações repetidas e manter a organização. Ele é composto por:
