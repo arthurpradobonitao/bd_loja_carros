@@ -1,5 +1,4 @@
--- [nota pessoal] Projeto Loja de Carros - Versão adaptada por Luiz
--- [nota pessoal] 02_seed.sql — DML (dados de exemplo)
+
 USE loja_carros;
 
 -- [nota pessoal] Marcas
